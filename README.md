@@ -1,4 +1,4 @@
-# Minload Studio (Minload)
+# Minload Studio (Minload)                <img src="https://github.com/Spikesix/Minload/blob/12ddb2ed47941d2a58f1048904cf3b4251791753/Source%20Code/Resources/ML.png" style="width: 100px; height: auto;" />
 
 Minload Studio is an open-source application that provides a graphical user interface (GUI) for interacting with **yt-dlp** and **ffmpeg**. It allows users to download audio and video files and convert them into various formats. Minload Studio aims to simplify the process of using these powerful command-line tools by offering an intuitive, user-friendly interface.
 
