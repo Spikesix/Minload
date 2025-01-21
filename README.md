@@ -11,7 +11,8 @@ Minload Studio is an open-source application that provides a graphical user inte
 
 ## Requirements
 - **Operating System**: Windows
-- **Dependencies**:
+
+## Dependencies:
   - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
   - [ffmpeg](https://ffmpeg.org/)
 
